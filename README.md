@@ -5,7 +5,7 @@
 ![Save my Plant Unity Demo](Save_my_plant.gif)
 
 # This project was divided into two parts : 
-**Inference Lisp Engine and Knowledge Base : **The Inference Engine supports both **forward chaining** (diagnosing symptoms) and **backwards chaining** (verifying advice). The Knowledge Base is a structured database of 33 logic rules using information like watering frequency, temperature, light levels, and soil types.
+**Inference Lisp Engine and Knowledge Base :** The Inference Engine supports both **forward chaining** (diagnosing symptoms) and **backwards chaining** (verifying advice). The Knowledge Base is a structured database of 33 logic rules using information like watering frequency, temperature, light levels, and soil types.
 **Interactive graphic interface:** The Lisp interface was not very user-friendly, so I decided to implement a dynamic interface where 27 hand-drawn illustrations adapt in real-time to represent the plant based on the user’s input.
 
 # Main features 
