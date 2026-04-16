@@ -15,4 +15,8 @@
 
 ## Documentation 
 For a deeper dive into this project’s functioning and code, you can read the full report here :
-**[Final Report (PDF)](./Rapport Save_My_Plant_AI_Expert_System Samuel BLIARD.pdf)**
+**[Final Report (PDF)](Rapport-Save-My-Plant-AI-Expert-System-Samuel-BLIARD.pdf)**
+
+
+---
+*Developed as part of the IA01 course at Université de Technologie de Compiègne (UTC).*
